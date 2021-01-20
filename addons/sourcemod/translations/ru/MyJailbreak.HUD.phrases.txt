@@ -40,17 +40,17 @@
 
 	"hud_tag"
 	{
-		"ru"		"[MyJB.HUD]"
+		"ru"		"[MyJB.Интерфейс]"
 	}
 
 	"hud_on"
 	{
-		"ru"		"HUD {purple}активен"
+		"ru"		"Интерфейс {purple}активен"
 	}
 
 	"hud_off"
 	{
-		"ru"		"HUD {purple}отключен"
+		"ru"		"Интерфейс {purple}отключен"
 	}
 
 	"hud_lastCT"

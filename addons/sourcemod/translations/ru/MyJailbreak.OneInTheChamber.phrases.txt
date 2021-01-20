@@ -1,0 +1,123 @@
+"Phrases"
+{
+	"oneinthechamber_tag"
+	{
+		"ru"		"[{green}MyJB.OITC{default}]"
+	}
+	"oneinthechamber_need"
+	{
+		"ru"		"{purple}{2}{default} проголосовал. {purple}{1}{default} голосов осталось до игры {darkred}День одиночной камеры."
+	}
+	"oneinthechamber_rounds"
+	{
+		"ru"		"Раунд {purple}{1}{default} из {purple}{2}"
+	}
+	"oneinthechamber_twin_nc"
+	{
+		"ru"		"Заключённые выжили!"
+	}
+	"oneinthechamber_voting"
+	{
+		"ru"		"Голосование за игру {purple}отключено!"
+	}
+	"oneinthechamber_setbywarden"
+	{
+		"ru"		"Командир {purple}отключил{default} выбор игры День одиночной камеры!"
+	}
+	"oneinthechamber_setbyadmin"
+	{
+		"ru"		"Администратор {purple}отключил{default} выбор игры День одиночной камеры!"
+	}
+	"oneinthechamber_minplayer"
+	{
+		"ru"		"Для игры День одиночной камеры необходим как минимум {purple}один охранник и один заключённый!"
+	}
+	"oneinthechamber_ctwin_nc"
+	{
+		"ru"		"Охранники выжили!"
+	}
+	"oneinthechamber_end"
+	{
+		"ru"		"Игра {purple}День одиночной камеры{default} окончена."
+	}
+	"oneinthechamber_next"
+	{
+		"ru"		"В следующем раунде: {purple}День одиночной камеры."
+	}
+	"oneinthechamber_next_nc"
+	{
+		"ru"		"В следующем раунде: День одиночной камеры."
+	}
+	"oneinthechamber_now_nc"
+	{
+		"ru"		"Начинается раунд Дня одиночной камеры."
+	}
+	"oneinthechamber_now"
+	{
+		"ru"		"Начинается раунд {purple}Дня одиночной камеры{default}."
+	}
+	"oneinthechamber_start"
+	{
+		"ru"		"{purple}День одиночной камеры{default} начался!"
+	}
+	"oneinthechamber_start_nc"
+	{
+		"ru"		"День одиночной камеры начался!"
+	}
+	"oneinthechamber_voted"
+	{
+		"ru"		"Вы уже проголосовали за {purple}День одиночной камеры!"
+	}
+	"oneinthechamber_progress"
+	{
+		"ru"		"Игровой день {darkred}{1} {default}в {purple}процессе!"
+	}
+	"oneinthechamber_disabled"
+	{
+		"ru"		"День одиночной камеры {purple}отключен!"
+	}
+	"oneinthechamber_timeuntilstart_nc"
+	{
+		"ru"		"{1} сек. до начала раунда!"
+	}
+	"oneinthechamber_info_title"
+	{
+		"ru"		"День одиночной камеры активирован!"
+	}
+	"oneinthechamber_info_line1"
+	{
+		"ru"		"День одиночной камеры - Каждый сам за себя!"
+	}
+	"oneinthechamber_info_line2"
+	{
+		"ru"		"У вас есть только один выстрел в deagle!"
+	}
+	"oneinthechamber_info_line3"
+	{
+		"ru"		"Когда вы убьёте, вы будете вознаграждены ещё одной пулей!"
+	}
+	"oneinthechamber_info_line4"
+	{
+		"ru"		"Никакие правила тюрьмы не применяются в этом раунде!"
+	}
+	"oneinthechamber_info_line5"
+	{
+		"ru"		"Здесь нету последних желаний!"
+	}
+	"oneinthechamber_info_line6"
+	{
+		"ru"		"Оставайтесь в главной камере! Не уходите в нычки!"
+	}
+	"oneinthechamber_info_line7"
+	{
+		"ru"		"Не будь засранцем!"
+	}
+	"oneinthechamber_wait"
+	{
+		"ru"		"Вы должны подождать {purple}{1}{default} раундов!"
+	}
+	"oneinthechamber_name"
+	{
+		"ru"		"День одиночной камеры"
+	}
+}

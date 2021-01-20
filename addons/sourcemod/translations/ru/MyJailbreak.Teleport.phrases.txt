@@ -1,0 +1,135 @@
+"Phrases"
+{
+	"teleport_tag"
+	{
+		"ru"		"[{green}MyJB.Teleport{default}]"
+	}
+	"teleport_need"
+	{
+		"ru"		"{purple}{2}{default} проголосовал. {purple}{1}{default} голосов голосов осталось до игры в {darkred}Телепорт войны."
+	}
+	"teleport_voting"
+	{
+		"ru"		"Голосование за игру Телепорт войны {purple}отключено!"
+	}
+	"teleport_setbywarden"
+	{
+		"ru"		"Командир {purple}отключил{default} выбор игры Телепорт войны!"
+	}
+	"teleport_setbyadmin"
+	{
+		"ru"		"Администратор {purple}отключил{default} выбор игры Телепорт войны!"
+	}
+	"teleport_ctwin_nc"
+	{
+		"ru"		"Охранники выжили!"
+	}
+	"teleport_twin_nc"
+	{
+		"ru"		"Заключённые выжили!"
+	}
+	"teleport_minplayer"
+	{
+		"ru"		"Для игры Битва без прицела вам нужен как минимум {purple}один охранник и один заключённый!"
+	}
+	"teleport_end"
+	{
+		"ru"		"Игра {purple}Телепорт войны{default} завершена!"
+	}
+	"teleport_next"
+	{
+		"ru"		"Следующий раунд: {purple}Телепорт войны."
+	}
+	"teleport_next_nc"
+	{
+		"ru"		"Следующий раунд: Телепорт войны."
+	}
+	"teleport_now_nc"
+	{
+		"ru"		"Начинается раунд телепортации."
+	}
+	"teleport_now"
+	{
+		"ru"		"Начинается раунд {purple}телепортации{default}."
+	}
+	"teleport_rounds"
+	{
+		"ru"		"Раунд {purple}{1}{default} из {purple}{2}"
+	}
+	"teleport_start"
+	{
+		"ru"		"Игра {purple}Телепорт войны{default} началась!"
+	}
+	"teleport_start_nc"
+	{
+		"ru"		"Игра Телепорт войны началась!"
+	}
+	"teleport_voted"
+	{
+		"ru"		"Вы уже проголосовали за игру {purple}Телепорт войны!"
+	}
+	"teleport_progress"
+	{
+		"ru"		"Игра {darkred}{1} {default}в {purple}процессе!"
+	}
+	"teleport_disabled"
+	{
+		"ru"		"Игра Телепорт войны {purple}отключена!"
+	}
+	"teleport_damage_nc"
+	{
+		"ru"		"{1} сек. до включения урона"
+	}
+	"teleport_info_title"
+	{
+		"ru"		"Игра Телепорт войны активирована!"
+	}
+	"teleport_info_line1"
+	{
+		"ru"		"Меняет позицию с нападающим / жертвой при попадании"
+	}
+	"teleport_info_line2"
+	{
+		"ru"		"Телепорт войны - Игрок против игрока - Побеждает последний выживший!"
+	}
+	"teleport_info_line3"
+	{
+		"ru"		"Убегайте во время фазы 'отсутствия урона'!"
+	}
+	"teleport_info_line4"
+	{
+		"ru"		"Стандартные правила тюрьмы отменены!"
+	}
+	"teleport_info_line5"
+	{
+		"ru"		"Нет доступных последних желаний!"
+	}
+	"teleport_info_line6"
+	{
+		"ru"		"Каждый может идти туда, куда захочет!"
+	}
+	"teleport_info_line7"
+	{
+		"ru"		"Не будь засранцем!"
+	}
+	"RoundOne"
+	{
+		"ru"		"Раунд 1 из 3"
+	}
+	"RoundTwo"
+	{
+		"ru"		"Раунд 2 из 3"
+	}
+	"RoundThree"
+	{
+		"ru"		"Это последний раунд игры Телепорт войны!"
+	}
+	"teleport_wait"
+	{
+		"ru"		"Вы должны подождать ещё {purple}{1}{default} раундов!"
+	}
+	"teleport_name"
+	{
+		"ru"		"Телепорт войны"
+	}
+}

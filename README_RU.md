@@ -2,8 +2,6 @@
 
 ## Languages
  - [Русский](https://github.com/shanapu/MyJailbreak-CSS/blob/master/README_RU.md)
- 
-## [Install](https://github.com/shanapu/MyJailbreak-CSS/blob/master/install.txt)
   
   css fork of https://github.com/shanapu/MyJailbreak
   

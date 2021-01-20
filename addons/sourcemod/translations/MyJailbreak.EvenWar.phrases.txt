@@ -134,7 +134,7 @@
 
 	"evenwar_info_line2"
 	{
-		"en"		"Team Deathmatch - kill the enemey Team!"
+		"en"		"Team Deathmatch - kill the enemy Team!"
 	}
 
 	"evenwar_info_line3"

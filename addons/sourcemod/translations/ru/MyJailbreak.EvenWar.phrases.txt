@@ -1,0 +1,225 @@
+
+"Phrases"
+{
+
+	"evenwar_tag"
+	{
+		"ru"		"[{green}MyJB.Война игр{default}]"
+	}
+
+	"evenwar_need"
+	{
+		"ru"		"{purple}{2}{default} проголосовал. {purple}{1}{default} голосов осталось до игры {darkred}50/50 - Война игр."
+	}
+
+	"evenwar_voting"
+	{
+		"ru"		"Голосование за игру 50/50 - Война игр {purple}отключено!"
+	}
+
+	"evenwar_setbywarden"
+	{
+		"ru"		"Командир {purple}отключил{default} выбор игры 50/50 - Война игр!"
+	}
+
+	"evenwar_setbyadmin"
+	{
+		"ru"		"Администратор {purple}отключил{default} выбор игры 50/50 - Война игр!"
+	}
+
+	"evenwar_bluewin"
+	{
+		"ru"		"{blue}Синие {default}победили!"
+	}
+
+	"evenwar_redwin"
+	{
+		"ru"		"{darkred}Красные {default}победили!"
+	}
+
+	"evenwar_bluewin_nc"
+	{
+		"ru"		"Синие победили!"
+	}
+
+	"evenwar_redwin_nc"
+	{
+		"ru"		"Красные победили!"
+	}
+
+	"evenwar_minplayer"
+	{
+		"ru"		"Для игры 50/50 - Война игр нужен как минимум {purple}один охранник и один заключённый!"
+	}
+
+	"evenwar_end"
+	{
+		"ru"		"{purple}50/50 - Война игр{default} отключена!"
+	}
+
+	"evenwar_next"
+	{
+		"ru"		"Следующий раунд: {purple}50/50 - Война игр."
+	}
+
+	"evenwar_next_nc"
+	{
+		"ru"		"Следующий раунд: 50/50 - Война игр."
+	}
+
+	"evenwar_rounds"
+	{
+		"ru"		"Раунд {purple}{1}{default} из {purple}{2}"
+	}
+
+	"evenwar_start"
+	{
+		"ru"		"День игры {purple}50/50 - Война игр{default} начался!"
+	}
+
+	"evenwar_start_nc"
+	{
+		"ru"		"50/50 - Война игр началась!"
+	}
+
+	"evenwar_voted"
+	{
+		"ru"		"Вы уже проголосовали за игру {purple}50/50 - Война игр!"
+	}
+
+	"evenwar_progress"
+	{
+		"ru"		"Игровой день {darkred}{1} {default}в {purple}процессе!"
+	}
+
+	"evenwar_disabled"
+	{
+		"ru"		"50/50 - Война игр {purple}отключена!"
+	}
+
+	"evenwar_damage_nc"
+	{
+		"ru"		"{1} сек. до включения нанесения урона между игроками"
+	}
+
+	"evenwar_damage_nc"
+	{
+		"ru"		"{1} сек. до включения нанесения урона между игроками"
+	}
+
+	"evenwar_info_title"
+	{
+		"ru"		"50/50 - Война игр активна!"
+	}
+
+	"evenwar_info_blueteam"
+	{
+		"ru"		"Вы в команде синих"
+	}
+
+	"evenwar_info_redteam"
+	{
+		"ru"		"Вы в команде красных"
+	}
+
+	"evenwar_info_line1"
+	{
+		"ru"		"Команда синих против команды красных"
+	}
+
+	"evenwar_info_line2"
+	{
+		"ru"		"Командный бой насмерть - Уничожьте вражескую команду!"
+	}
+
+	"evenwar_info_line3"
+	{
+		"ru"		"Убегайте и объединитесь во время фазы 'отсутствия урона'!"
+	}
+
+	"evenwar_info_line4"
+	{
+		"ru"		"Все нормальные правила тюрьмы отменяются!"
+	}
+
+	"evenwar_info_line5"
+	{
+		"ru"		"Здесь нету последних желаний!"
+	}
+
+	"evenwar_info_line6"
+	{
+		"ru"		"Каждый может идти туда, куда захочет!"
+	}
+
+	"evenwar_info_line7"
+	{
+		"ru"		"Не будь засранцем!"
+	}
+
+	"RoundOne"
+	{
+		"ru"		"Раунд 1 из 3"
+	}
+
+	"RoundTwo"
+	{
+		"ru"		"Раунд 2 из 3"
+	}
+
+	"RoundThree"
+	{
+		"ru"		"Это последний раунд 50/50 - Война игр!"
+	}
+
+	"evenwar_wait"
+	{
+		"ru"		"Вы должны подождать {purple}{1}{default} раундов!"
+	}
+
+	"evenwar_name"
+	{
+		"ru"		"50/50 Война игр"
+	}
+
+	"evenwar_teamblue"
+	{
+		"ru"		"Вы в {blue}команде синих"
+	}
+
+	"evenwar_teamred"
+	{
+		"ru"		"Вы в {darkred}команде красных"
+	}
+
+	"evenwar_teamblue_nc"
+	{
+		"ru"		"Вы в команде синих"
+	}
+
+	"evenwar_teamred_nc"
+	{
+		"ru"		"Вы в команде красных"
+	}
+
+	"evenwar_playerteamblue"
+	{
+		"ru"		"{purple}{1}{default} в {blue}команде синих"
+	}
+
+	"evenwar_playerteamred"
+	{
+		"ru"		"{purple}{1}{default} в {darkred}команде красных"
+	}
+
+	"evenwar_blue_nc"
+	{
+		"ru"		"Синие"
+	}
+
+	"evenwar_red_nc"
+	{
+		"ru"		"Красные"
+	}
+
+}
