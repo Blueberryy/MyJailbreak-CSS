@@ -1,15 +1,17 @@
-## MyJailbreak for css
+## MyJailbreak для css
 
-## Languages
- - [Русский](https://github.com/shanapu/MyJailbreak-CSS/blob/master/README_RU.md)
+## Языки
+ - [English](https://github.com/shanapu/MyJailbreak-CSS/blob/master/README.md)
+ 
+## [Установка](https://github.com/shanapu/MyJailbreak-CSS/blob/master/install_ru.txt)
   
-  css fork of https://github.com/shanapu/MyJailbreak
+  css fork https://github.com/shanapu/MyJailbreak
   
-  a plugin pack for CS:GO jailserver
+  набор плагинов для jail-сервера в CS:GO
   
-coded with ![](http://shanapu.de/githearth-small.png) free software
+создано с ![](http://shanapu.de/githearth-small.png) бесплатного программного обеспечения
   
-*my golden faucets not finance itself...* [ ![](http://shanapu.de/donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT8TVRSYWP53J)
+*мои золотые краны не финансируют себя...* [ ![](http://shanapu.de/donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT8TVRSYWP53J)
 
 
 
